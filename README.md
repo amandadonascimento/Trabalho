@@ -1,1 +1,3 @@
 # Trabalho
+
+$L(\theta)$
